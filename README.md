@@ -5,6 +5,7 @@ This repository includes two comprehensive Jupyter notebooks that apply machine 
 This repository contains two main projects:
 1. Truck Maintenance Classification
 2. Multivariate Time Series and Anomaly Detection for Predictive Maintenance
+
 Each notebook is structured to guide through data preprocessing, exploratory data analysis, feature engineering, and modeling phases, ultimately leading to practical insights that can help predict maintenance needs.
 
 ## Truck Maintenance Classification
